@@ -87,10 +87,10 @@ We implemented **two modeling techniques**:
   - ✅ Gradient Boosting (GB) Regressor
 
 ### **2️⃣ Classification Models (Predicting Additional Resource Needs)**
-- **🏆 Best Model:** **Gradient Boosting Classifier (GB)**
+- **🏆 Best Model:** **Random Forest**
 - **Other Models Tested:**
   - ✅ Decision Trees
-  - ✅ Random Forest
+  - ✅ Gradient Boosting (GB) Classifier
   - ✅ k-NN Classifier
 
 ### **📏 Evaluation Metrics**
